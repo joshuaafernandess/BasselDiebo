@@ -235,7 +235,7 @@ export const translations = {
   },
   hero: {
     en: {
-      title: "Dr. Bassel George Diebo",
+      title: "Bassel George Diebo, MD",
       role: "Spine and Scoliosis Surgeon",
       professor: "Assistant Professor of Orthopaedics",
       researchDirector: "Director of Spine Research and Innovation",
